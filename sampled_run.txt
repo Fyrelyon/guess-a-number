@@ -1,0 +1,58 @@
+*************************
+*  Guess a Number A.I!  *
+*************************
+What is your name? Gavin
+I will now ask for the range of numbers that your number can be on, Gavin.
+What is the lowest possible number, Gavin? 1
+What is the highest possible number, Gavin? 100
+Please think of a number from 1 to 100, Gavin, and I will try to guess it.
+I have 8 tries to guess your number.
+
+Press any [ENTER] to continue...
+
+I have 8 tries remaining.
+I know! The answer is 50!
+Was my answer "too high" {h), "too low" (l), or just "right" (y), Gavin? l
+
+I have 7 tries remaining.
+I know! The answer is 75!
+Was my answer "too high" {h), "too low" (l), or just "right" (y), Gavin? too low
+
+I have 6 tries remaining.
+I know! The answer is 87!
+Was my answer "too high" {h), "too low" (l), or just "right" (y), Gavin? h
+
+I have 5 tries remaining.
+I know! The answer is 81!
+Was my answer "too high" {h), "too low" (l), or just "right" (y), Gavin? too high
+
+I have 4 tries remaining.
+I know! The answer is 78!
+Was my answer "too high" {h), "too low" (l), or just "right" (y), Gavin? right
+
+Hah! I won! The answer IS 78, Gavin!
+I used 4 tries during that match.
+
+Would you like to play again, Gavin? (y/n) y
+
+What is your name? Gavin
+I will now ask for the range of numbers that your number can be on, Gavin.
+What is the lowest possible number, Gavin? 1
+What is the highest possible number, Gavin? 100
+Please think of a number from 1 to 100, Gavin, and I will try to guess it.
+I have 8 tries to guess your number.
+
+Press any [ENTER] to continue...
+
+I have 8 tries remaining.
+I know! The answer is 50!
+Was my answer "too high" {h), "too low" (l), or just "right" (y), Gavin? y
+
+Hah! I won! The answer IS 50, Gavin!
+I used 0 tries during that match.
+
+Would you like to play again, Gavin? (y/n) n
+
+*************************
+*  Gavin     10/1/2017  *
+*************************
